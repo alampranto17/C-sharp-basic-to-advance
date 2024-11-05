@@ -11,19 +11,19 @@ using System.Threading.Tasks;
 
 namespace classworkofc_
 {
-    struct Point
+    struct Point // structure support  reference type and value type both. 
     {
         public int x; // this is like java. you have to used access modifier every value.
         public int y;
 
 
-        // C# is not working on this constructure 
+        // C# is not working on this constructure .constructure are mainly work for value initalization
         //public point()
         //{
         //    this.x = 6; this.y = 0;
         //}
 
-        public Point(int x, int y) // parameter constructure
+        public Point(int x, int y) // parameter constructure .. er maddhome joto gula attribute ase shob gulai fill korte hobe
         {
             this.x = x;
             this.y = y;
@@ -88,7 +88,7 @@ namespace classworkofc_
 
             //class 2 update 29-11-24
 
-            Point P;
+           /* Point P;
             P.x = 10;
             P.y = 20;
             Console.WriteLine($"X= {P.x} , y= {P.y}");
@@ -108,6 +108,24 @@ namespace classworkofc_
             P3.x = Int32.Parse(Console.ReadLine());
             P3.y= Int32.Parse(Console.ReadLine());
             P3.print();
+           */
+
+            //class 3 update ---
+
+            ClassModule c=new ClassModule();
+            c.SetId(22500003);
+            c.setName("Alam Pranto");
+            c.setAge(22);
+            c.setSalary(9000.00);
+
+            c.Print();
+
+            Console.WriteLine();
+
+            ClassModule c2=new ClassModule(22300002,"Nurul alam",24,89999.00);
+            c2.Print();
+           
+
 
 
             
