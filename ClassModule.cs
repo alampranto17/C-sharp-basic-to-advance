@@ -12,10 +12,10 @@ namespace classworkofc_
         // class and method type =PascalCase;
         // class is blue print.
         //inside class by default every value is private 
-        int id;   //varible =CamelCase
-        string name;
-        int age;
-        double salary;
+      private  int id;   //varible =CamelCase
+       private  string name;
+        private int age;
+       private double cgpa;
 
         //id
         public void SetId(int id)
@@ -41,33 +41,36 @@ namespace classworkofc_
         public int getAge() 
         { return age; }
 
-        //salary
-        public void setSalary(double salary)
+        // cgpa verification 
+        public void setCgpa(double cgpa)
         {
-              this.salary=salary;
+            if (cgpa > 0 && cgpa <= 4)
+            { this.cgpa = cgpa; }
+            else
+            { this.cgpa = -1; }
         }
-        public double getSalary()
+        public double getCgpa()
         {
-            return this.salary;
+            return this.cgpa;
         }
 
         //class er modde jodi parameter constructor theke taile default constructor create hoye na 
    public  ClassModule()
         { }
 
-     public ClassModule(int id, string name, int age,double salary)
+     public ClassModule(int id, string name, int age,double cgpa)
         {
             SetId(id);
             setAge(age);
             setName(name);
-            setSalary(salary);
+            setCgpa(cgpa);
         }
 
       public void Print()
         { Console.WriteLine($"ID : {getId()}");
             Console.WriteLine($"Name : {getName()}");
             Console.WriteLine($"Age : {getAge()}");
-            Console.WriteLine($"Salary : {getSalary()}");
+            Console.WriteLine($"Salary : {getCgpa()}");
         
         
         }

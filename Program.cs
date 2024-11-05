@@ -116,13 +116,13 @@ namespace classworkofc_
             c.SetId(22500003);
             c.setName("Alam Pranto");
             c.setAge(22);
-            c.setSalary(9000.00);
+            c.setCgpa(3.50);
 
             c.Print();
 
             Console.WriteLine();
 
-            ClassModule c2=new ClassModule(22300002,"Nurul alam",24,89999.00);
+            ClassModule c2=new ClassModule(22300002,"Nurul alam",24,-999.00);
             c2.Print();
            
 
