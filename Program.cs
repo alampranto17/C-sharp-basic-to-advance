@@ -112,23 +112,48 @@ namespace classworkofc_
 
             //class 3 update ---
 
-            ClassModule c=new ClassModule();
-            c.SetId(22500003);
-            c.setName("Alam Pranto");
-            c.setAge(22);
-            c.setCgpa(3.50);
+            //ClassModule c=new ClassModule();
+            //c.SetId(22500003);
+            //c.setName("Alam Pranto");
+            //c.setAge(22);
+            //c.setCgpa(3.50);
 
-            c.Print();
+            //c.Print();
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
-            ClassModule c2=new ClassModule(22300002,"Nurul alam",24,-999.00);
-            c2.Print();
+            //ClassModule c2=new ClassModule(22300002,"Nurul alam",24,-999.00);
+            //c2.Print();
+
+
+
+            // class 4 update -- 
+            InfoStore S1=new InfoStore();
+            Console.WriteLine("Enter your ID : ");
+            S1.Id= Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Ënter your name : ");
+            S1.Name=Console.ReadLine();
+            Console.WriteLine("Ënter your Cgpa : ");
+            S1.Cgpa=Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ënter your Address : ");
+            S1.Address = new AddressFormate(120,07,"Uttara","Dhaka",1200,"Bangladesh");
+
+            S1.print();
+
+            InfoStore S2=new InfoStore(2290003,"Nurul",-999,new AddressFormate(109,08,"Addabor","Dhaka",2019,"Bangladesh"));
+            S2.print();
            
 
 
 
-            
+
+
+
+
+
+
+
+
 
 
 
