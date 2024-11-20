@@ -1,0 +1,2 @@
+D:\code of c#\classworkofc#\classworkofc#\obj\Release\classworkofc#.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\classworkofc#\obj\Release\classworkofc#.csproj.CoreCompileInputs.cache

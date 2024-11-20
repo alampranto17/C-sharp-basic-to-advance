@@ -1,0 +1,7 @@
+D:\code of c#\classworkofc#\classworkofc#\obj\Debug\classworkofc#.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\classworkofc#\obj\Debug\classworkofc#.csproj.CoreCompileInputs.cache
+D:\code of c#\classworkofc#\classworkofc#\bin\Debug\classworkofc#.exe.config
+D:\code of c#\classworkofc#\classworkofc#\bin\Debug\classworkofc#.exe
+D:\code of c#\classworkofc#\classworkofc#\bin\Debug\classworkofc#.pdb
+D:\code of c#\classworkofc#\classworkofc#\obj\Debug\classworkofc#.exe
+D:\code of c#\classworkofc#\classworkofc#\obj\Debug\classworkofc#.pdb

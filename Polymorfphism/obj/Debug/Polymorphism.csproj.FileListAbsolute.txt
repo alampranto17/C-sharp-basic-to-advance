@@ -1,0 +1,7 @@
+D:\code of c#\classworkofc#\Polymorfphism\bin\Debug\Polymorfphism.exe.config
+D:\code of c#\classworkofc#\Polymorfphism\bin\Debug\Polymorfphism.exe
+D:\code of c#\classworkofc#\Polymorfphism\bin\Debug\Polymorfphism.pdb
+D:\code of c#\classworkofc#\Polymorfphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\Polymorfphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+D:\code of c#\classworkofc#\Polymorfphism\obj\Debug\Polymorfphism.exe
+D:\code of c#\classworkofc#\Polymorfphism\obj\Debug\Polymorfphism.pdb
