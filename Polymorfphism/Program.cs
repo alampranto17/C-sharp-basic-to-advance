@@ -39,14 +39,34 @@ namespace Polymorfphism
                 i++;
             }*/
 
-            Polymorphism p= new Polymorphism();
+           /* Polymorphism p= new Polymorphism();
            // p.Addition(s);
 
             p.Addition("alam", 233, 133);
             p.Addition(23, "alam", 466);
             p.Addition(21, 2445, 5667);
             int[] arr = new int[4] { 1, 2, 3, 4 };
-            p.Addition(arr);
+            p.Addition(arr);*/
+
+            //runtime polymorphism 
+            /*
+             * return type same 
+             * name same 
+             * parameter same 
+             *
+             * 
+             */
+
+            PrimaryStudent p = new PrimaryStudent();
+            Student s=new Student();
+            s.Print();//override er condition full but override not posiable
+            p.Print();
+
+            // if we want to override we need to used polymorphie object 
+
+            Student ab = new PrimaryStudent();// this polymorphic object 
+            ab.Print();
+                        // always print the upgrade able thing and jodi upgrade method na pai tahole print korbe ager tai 
 
 
 

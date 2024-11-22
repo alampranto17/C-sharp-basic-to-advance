@@ -68,11 +68,16 @@ namespace Polymorfphism
             this.Address = address;
         }
 
-        public void Print()
+/*        public void Print()
         {
             Console.WriteLine("Name : "+this.Name);
             Console.WriteLine( "ID : "+this.Id);
             address.Print();
+        }*/
+
+        public virtual void Print()
+        {
+            Console.WriteLine("parent");
         }
 
 

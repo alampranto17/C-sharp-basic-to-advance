@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorfphi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterModifier", "ParameterModifier\ParameterModifier.csproj", "{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritence", "Inheritence\Inheritence.csproj", "{949F502D-8D21-45BB-9A61-EAE9893AAA25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949F502D-8D21-45BB-9A61-EAE9893AAA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F502D-8D21-45BB-9A61-EAE9893AAA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F502D-8D21-45BB-9A61-EAE9893AAA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F502D-8D21-45BB-9A61-EAE9893AAA25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

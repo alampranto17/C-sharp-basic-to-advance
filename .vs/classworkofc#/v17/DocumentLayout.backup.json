@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\code of c#\\classworkofc#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|D:\\code of c#\\classworkofc#\\parametermodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|solutionrelative:parametermodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|d:\\code of c#\\classworkofc#\\polymorfphism\\primarystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|solutionrelative:polymorfphism\\primarystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|d:\\code of c#\\classworkofc#\\parametermodifier\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|solutionrelative:parametermodifier\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|d:\\code of c#\\classworkofc#\\polymorfphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|solutionrelative:polymorfphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|d:\\code of c#\\classworkofc#\\parametermodifier\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|solutionrelative:parametermodifier\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|d:\\code of c#\\classworkofc#\\parametermodifier\\refandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A231C3-C2F2-49F2-95EE-852C78A00E9F}|ParameterModifier\\ParameterModifier.csproj|solutionrelative:parametermodifier\\refandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|d:\\code of c#\\classworkofc#\\polymorfphism\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|solutionrelative:polymorfphism\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\ParameterModifier\\Enums.cs",
-              "RelativeDocumentMoniker": "ParameterModifier\\Enums.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\ParameterModifier\\Enums.cs*",
-              "RelativeToolTip": "ParameterModifier\\Enums.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvycAAAAjAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorfphism\\Program.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Program.cs*",
+              "RelativeToolTip": "Polymorfphism\\Program.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEQAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T05:37:24.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Constant.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\ParameterModifier\\Constant.cs",
-              "RelativeDocumentMoniker": "ParameterModifier\\Constant.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\ParameterModifier\\Constant.cs",
-              "RelativeToolTip": "ParameterModifier\\Constant.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T05:18:25.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefAndOut.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\ParameterModifier\\RefAndOut.cs",
-              "RelativeDocumentMoniker": "ParameterModifier\\RefAndOut.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\ParameterModifier\\RefAndOut.cs",
-              "RelativeToolTip": "ParameterModifier\\RefAndOut.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T05:02:43.731Z",
+              "WhenOpened": "2024-11-22T10:04:02.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\ParameterModifier\\Program.cs",
-              "RelativeDocumentMoniker": "ParameterModifier\\Program.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\ParameterModifier\\Program.cs*",
-              "RelativeToolTip": "ParameterModifier\\Program.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCsAAAAcAAAAAAAAAA==",
+              "Title": "PrimaryStudent.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Polymorfphism\\PrimaryStudent.cs",
+              "RelativeDocumentMoniker": "Polymorfphism\\PrimaryStudent.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Polymorfphism\\PrimaryStudent.cs*",
+              "RelativeToolTip": "Polymorfphism\\PrimaryStudent.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:34:09.242Z",
+              "WhenOpened": "2024-11-22T10:03:09.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Student.cs",
+              "RelativeDocumentMoniker": "Polymorfphism\\Student.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Student.cs",
+              "RelativeToolTip": "Polymorfphism\\Student.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:02:21.195Z",
               "EditorCaption": ""
             }
           ]
