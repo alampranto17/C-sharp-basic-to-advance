@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\code of c#\\classworkofc#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|d:\\code of c#\\classworkofc#\\polymorfphism\\primarystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|solutionrelative:polymorfphism\\primarystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|d:\\code of c#\\classworkofc#\\polymorfphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|solutionrelative:polymorfphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|d:\\code of c#\\classworkofc#\\polymorfphism\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7D2D8C-1468-4C1C-ABFA-6667C15F6C47}|Polymorfphism\\Polymorphism.csproj|solutionrelative:polymorfphism\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Program.cs",
-              "RelativeDocumentMoniker": "Polymorfphism\\Program.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Program.cs",
-              "RelativeToolTip": "Polymorfphism\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAwwEQAAAB6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Practice\\CurrentAccount.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\CurrentAccount.cs",
+              "RelativeToolTip": "Practice\\CurrentAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:04:02.077Z",
+              "WhenOpened": "2024-11-25T14:11:59.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "Practice\\SavingAccount.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\SavingAccount.cs",
+              "RelativeToolTip": "Practice\\SavingAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:00:45.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrimaryStudent.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Polymorfphism\\PrimaryStudent.cs",
-              "RelativeDocumentMoniker": "Polymorfphism\\PrimaryStudent.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Polymorfphism\\PrimaryStudent.cs",
-              "RelativeToolTip": "Polymorfphism\\PrimaryStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\Account.cs",
+              "RelativeDocumentMoniker": "Practice\\Account.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\Account.cs",
+              "RelativeToolTip": "Practice\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:03:09.583Z",
+              "WhenOpened": "2024-11-25T13:15:02.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Student.cs",
-              "RelativeDocumentMoniker": "Polymorfphism\\Student.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Polymorfphism\\Student.cs",
-              "RelativeToolTip": "Polymorfphism\\Student.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAqwE8AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:02:21.195Z",
+              "WhenOpened": "2024-11-25T13:14:19.549Z",
               "EditorCaption": ""
             }
           ]
