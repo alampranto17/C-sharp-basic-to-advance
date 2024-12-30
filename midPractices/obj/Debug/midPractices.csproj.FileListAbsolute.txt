@@ -1,0 +1,7 @@
+D:\code of c#\classworkofc#\midPractices\bin\Debug\midPractices.exe.config
+D:\code of c#\classworkofc#\midPractices\bin\Debug\midPractices.exe
+D:\code of c#\classworkofc#\midPractices\bin\Debug\midPractices.pdb
+D:\code of c#\classworkofc#\midPractices\obj\Debug\midPractices.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\midPractices\obj\Debug\midPractices.csproj.CoreCompileInputs.cache
+D:\code of c#\classworkofc#\midPractices\obj\Debug\midPractices.exe
+D:\code of c#\classworkofc#\midPractices\obj\Debug\midPractices.pdb

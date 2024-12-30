@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\code of c#\\classworkofc#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|d:\\code of c#\\classworkofc#\\associationaandstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|solutionrelative:associationaandstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|d:\\code of c#\\classworkofc#\\associationaandstatic\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|solutionrelative:associationaandstatic\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|d:\\code of c#\\classworkofc#\\associationaandstatic\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|solutionrelative:associationaandstatic\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|d:\\code of c#\\classworkofc#\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC02CE2B-F715-4C94-BF5A-83B761C28565}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|d:\\code of c#\\classworkofc#\\associationaandstatic\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|solutionrelative:associationaandstatic\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|d:\\code of c#\\classworkofc#\\associationaandstatic\\listofvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8ABA41-F786-4259-9D7A-C9E4C5F6E993}|AssociationAAndStatic\\AssociationAAndStatic.csproj|solutionrelative:associationaandstatic\\listofvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurrentAccount.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\CurrentAccount.cs",
-              "RelativeDocumentMoniker": "Practice\\CurrentAccount.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\CurrentAccount.cs",
-              "RelativeToolTip": "Practice\\CurrentAccount.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAywBUAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ListofValue.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\ListofValue.cs",
+              "RelativeDocumentMoniker": "AssociationAAndStatic\\ListofValue.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\ListofValue.cs*",
+              "RelativeToolTip": "AssociationAAndStatic\\ListofValue.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:11:59.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SavingAccount.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\SavingAccount.cs",
-              "RelativeDocumentMoniker": "Practice\\SavingAccount.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\SavingAccount.cs",
-              "RelativeToolTip": "Practice\\SavingAccount.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:00:45.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\Account.cs",
-              "RelativeDocumentMoniker": "Practice\\Account.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\Account.cs*",
-              "RelativeToolTip": "Practice\\Account.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwDcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:15:02.157Z",
+              "WhenOpened": "2024-12-30T16:52:52.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\Practice\\Program.cs",
-              "RelativeDocumentMoniker": "Practice\\Program.cs",
-              "ToolTip": "D:\\code of c#\\classworkofc#\\Practice\\Program.cs",
-              "RelativeToolTip": "Practice\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAfAAAAAAAAAA==",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Customer.cs",
+              "RelativeDocumentMoniker": "AssociationAAndStatic\\Customer.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Customer.cs",
+              "RelativeToolTip": "AssociationAAndStatic\\Customer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:14:19.549Z",
+              "WhenOpened": "2024-12-30T16:37:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Person.cs",
+              "RelativeDocumentMoniker": "AssociationAAndStatic\\Person.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Person.cs",
+              "RelativeToolTip": "AssociationAAndStatic\\Person.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:55:17.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Employee.cs",
+              "RelativeDocumentMoniker": "AssociationAAndStatic\\Employee.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Employee.cs",
+              "RelativeToolTip": "AssociationAAndStatic\\Employee.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:23:38.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Program.cs",
+              "RelativeDocumentMoniker": "AssociationAAndStatic\\Program.cs",
+              "ToolTip": "D:\\code of c#\\classworkofc#\\AssociationAAndStatic\\Program.cs*",
+              "RelativeToolTip": "AssociationAAndStatic\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:55:17.878Z",
               "EditorCaption": ""
             }
           ]

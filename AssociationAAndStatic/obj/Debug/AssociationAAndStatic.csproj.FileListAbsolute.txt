@@ -1,0 +1,7 @@
+D:\code of c#\classworkofc#\AssociationAAndStatic\bin\Debug\AssociationAAndStatic.exe.config
+D:\code of c#\classworkofc#\AssociationAAndStatic\bin\Debug\AssociationAAndStatic.exe
+D:\code of c#\classworkofc#\AssociationAAndStatic\bin\Debug\AssociationAAndStatic.pdb
+D:\code of c#\classworkofc#\AssociationAAndStatic\obj\Debug\AssociationAAndStatic.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\AssociationAAndStatic\obj\Debug\AssociationAAndStatic.csproj.CoreCompileInputs.cache
+D:\code of c#\classworkofc#\AssociationAAndStatic\obj\Debug\AssociationAAndStatic.exe
+D:\code of c#\classworkofc#\AssociationAAndStatic\obj\Debug\AssociationAAndStatic.pdb

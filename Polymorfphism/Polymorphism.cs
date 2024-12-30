@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
@@ -7,8 +8,10 @@ using System.Threading.Tasks;
 
 namespace Polymorfphism
 {
+ 
     internal class Polymorphism
     {
+        
         //Polymorphism -> bohurupi 
         //2 type of polymorphism -> method overloading (compile time) ,method overriding (run time)
         //condition of polymorphism -> 1. Number of parameter 2. type of parameter 3. sequence of parameter

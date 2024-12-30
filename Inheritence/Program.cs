@@ -34,46 +34,50 @@ namespace Inheritence
 
             // this() and base () -> remember never make a circle . 
 
-            //child C2 = new child("hello");
-            Console.WriteLine("How many student info register : ");
-            int n=Convert.ToInt32(Console.ReadLine());
-
-            Student[] student=new Student[n];
-            int i = 0;
-            while(i < n) {
-                Console.WriteLine("Student "+i);
-                Console.WriteLine();
-
-                Console.Write("Student Name :");
-                String name = Console.ReadLine();
-                Console.Write("Student ID : ");
-                int Id = Convert.ToInt32(Console.ReadLine());
-
-                Console.Write("Class NO : ");
-                byte classno=Convert.ToByte(Console.ReadLine());
-
-                Console.Write("Section Name : ");
-                char section=Convert.ToChar(Console.ReadLine());
+            child C2 = new child("hello");
 
 
 
-                Console.Write("Student Age : ");
-                int age=Convert.ToInt32(Console.ReadLine());
 
-                Console.Write("Student Address : ");
-                short houseNo =Convert.ToInt16(Console.ReadLine());
+            //Console.WriteLine("How many student info register : ");
+            //int n=Convert.ToInt32(Console.ReadLine());
 
-                string city = Console.ReadLine();
+            //Student[] student=new Student[n];
+            //int i = 0;
+            //while(i < n) {
+            //    Console.WriteLine("Student "+i);
+            //    Console.WriteLine();
 
-                student[i] = new Student(name: name, age: age, address: new AddressFormate(houseNo, city), studentId: Id, classNo: classno,sectionName: section);
+            //    Console.Write("Student Name :");
+            //    String name = Console.ReadLine();
+            //    Console.Write("Student ID : ");
+            //    int Id = Convert.ToInt32(Console.ReadLine());
 
-                i++;
-                }
-            foreach (Student s in student)
-            {
-                s.StudentInfoPrint();
-                Console.WriteLine();
-            }
+            //    Console.Write("Class NO : ");
+            //    byte classno=Convert.ToByte(Console.ReadLine());
+
+            //    Console.Write("Section Name : ");
+            //    char section=Convert.ToChar(Console.ReadLine());
+
+
+
+            //    Console.Write("Student Age : ");
+            //    int age=Convert.ToInt32(Console.ReadLine());
+
+            //    Console.Write("Student Address : ");
+            //    short houseNo =Convert.ToInt16(Console.ReadLine());
+
+            //    string city = Console.ReadLine();
+
+            //    student[i] = new Student(name: name, age: age, address: new AddressFormate(houseNo, city), studentId: Id, classNo: classno,sectionName: section);
+
+            //    i++;
+            //    }
+            //foreach (Student s in student)
+            //{
+            //    s.StudentInfoPrint();
+            //    Console.WriteLine();
+            //}
 
 
 

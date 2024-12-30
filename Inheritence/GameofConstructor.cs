@@ -9,7 +9,7 @@ namespace Inheritence
 {
     internal class GameofConstructor
     {
-       public  GameofConstructor()  {
+       public  GameofConstructor() {
             Console.WriteLine("Parent is called");
         }
 
@@ -32,6 +32,8 @@ namespace Inheritence
         Console.WriteLine("hello child");
     }
 
+
+   
 
 
 

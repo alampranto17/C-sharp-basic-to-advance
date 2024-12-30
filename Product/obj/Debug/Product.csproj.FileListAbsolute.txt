@@ -1,0 +1,7 @@
+D:\code of c#\classworkofc#\Product\bin\Debug\Product.exe.config
+D:\code of c#\classworkofc#\Product\bin\Debug\Product.exe
+D:\code of c#\classworkofc#\Product\bin\Debug\Product.pdb
+D:\code of c#\classworkofc#\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\code of c#\classworkofc#\Product\obj\Debug\Product.exe
+D:\code of c#\classworkofc#\Product\obj\Debug\Product.pdb

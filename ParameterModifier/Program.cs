@@ -9,7 +9,9 @@ namespace ParameterModifier
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
+
+
             //using params unlimite number parameter pass
 
             Params p= new Params();
@@ -20,6 +22,7 @@ namespace ParameterModifier
             RefAndOut r = new RefAndOut();
             int i = 10;
             int j = 90;
+          
             Console.WriteLine("before "+i + " " + j);
             r.Swap(ref i, ref j);   // ref likhte hoy 
             Console.WriteLine("after " + i +" "+j);
