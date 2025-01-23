@@ -1,0 +1,11 @@
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\code of c#\classworkofc#\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\code of c#\classworkofc#\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\code of c#\classworkofc#\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.Form1.resources
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.cache
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.UserControl1.resources
+D:\code of c#\classworkofc#\DatabaseConnection\obj\Debug\DatabaseConnection.FormAdd.resources
