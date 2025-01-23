@@ -52,6 +52,7 @@ namespace AssociationAAndStatic
             Console.WriteLine("Empolyee : " + this.TypeOfWork);
             Console.WriteLine("Blood Group : "+this.BlooadGroup);
             Console.WriteLine("Salary : "+this.Salary);
+            Console.WriteLine(); 
             
         }
 

@@ -37,7 +37,8 @@ namespace AssociationAAndStatic
         {
             base.Showinfo();
             Console.WriteLine("Item Name : " + this.IteamName);
-        
+            Console.WriteLine();
+
         }
     }
 }
